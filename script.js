@@ -8,16 +8,21 @@ fetch('busLinesData.geojson').then(response => response.json()).then(data => {
     L.geoJSON(data, {
         pointToLayer: function(feature, latlng) {
             return L.circleMarker(latlng, {
-                radius: 5,  // Make points smaller
-                color: "red"
+                radius: 1,
+                color: "white"
             });
         },
-        style: {
-            color: "white",
-            weight: 4
+        style: function(feature) {
+            if (feature.geometry.type === "LineString") {
+                const color = feature.properties.colour || "gray";
+                return {
+                    color: color,
+                    weight: 4
+                };
+            }
         },
-        onEachFeature: function (feature, layer){
-            if (feature.properties && feature.properties.name){
+        onEachFeature: function (feature, layer) {
+            if (feature.properties && feature.properties.name) {
                 layer.bindPopup("Route: " + feature.properties.name);
             }
         }
