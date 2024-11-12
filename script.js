@@ -5,25 +5,53 @@ L.tileLayer('https://api.maptiler.com/maps/basic-v2-dark/{z}/{x}/{y}.png?key=KP8
 }).addTo(map);
 
 fetch('busLinesData.geojson').then(response => response.json()).then(data => {
-    L.geoJSON(data, { // adds bus stop points
-        pointToLayer: function(feature, latlng) {
-            return L.circleMarker(latlng, {
-                radius: 1,
-                color: "white"
-            });
-        },
-        style: function(feature) {
-                const color = feature.properties.colour || "white";
+    
+    var overlays = {};
+
+    data.features.forEach(feature => {
+        const lineName = feature.properties.name || "Bus Stops";
+        const color = feature.properties.colour || "white";
+
+        if (!overlays[lineName]) {
+            overlays[lineName] = L.layerGroup().addTo(map);
+        }
+
+        L.geoJSON(feature, {
+
+
+            pointToLayer: function(feature, latlng) {
+                const marker = L.circleMarker(latlng, {
+                    radius: 1,
+                    color: "white"
+                });
+                
+                if(feature.properties["@relations"][0]["stop_name"]){
+                    marker.bindPopup(feature.properties["@relations"][0]["stop_name"]);
+                } else if (feature.properties["@relations"][0]["role"] === "platform") {
+                    return;
+                }
+                else {
+                    marker.bindPopup(feature.properties["@id"]); // CHANGE TO "STOP LATER"
+                } 
+                // TODO: BUS STOP
+
+                return marker;
+            },
+            style: function() {
                 return {
                     color: color,
                     weight: 4
                 };
-        },
-        onEachFeature: function (feature, layer) {
-            if (feature.properties && feature.properties.name) {
-                layer.bindPopup("Route: " + feature.properties.name);
+            },
+            onEachFeature: function (feature, layer) {
+                if (feature.properties && feature.properties.name) {
+                    layer.bindPopup(feature.properties.name);
+                } 
             }
-        }
-    }).addTo(map);
+        }).addTo(overlays[lineName]);
+    });
+
+    L.control.layers(null, overlays).addTo(map);
+
 })
 .catch(error => console.log('Error loading GeoJSON data:', error));

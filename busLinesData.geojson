@@ -15671,7 +15671,7 @@
         "@id": "relation/14364569",
         "colour": "#EC008C",
         "from": "Jatinangor",
-        "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+        "name": "Koridor 5 Trans Metro Pasundan",
         "network": "Trans Metro Pasundan",
         "opening_hours": "Mo-Su 04:30-19:30",
         "operator": "DAMRI",
@@ -22238,7 +22238,7 @@
         "@id": "relation/15660998",
         "colour": "#EC008C",
         "from": "UNPAD Dipatiukur",
-        "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+        "name": "Koridor 5 Trans Metro Pasundan",
         "network": "Trans Metro Pasundan",
         "opening_hours": "Mo-Su 04:30-19:30",
         "operator": "DAMRI",
@@ -25215,7 +25215,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25250,7 +25250,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25269,7 +25269,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25340,7 +25340,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25441,6 +25441,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Lembong",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -25480,7 +25481,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25511,6 +25512,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Optik Krida",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -25585,7 +25587,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25748,7 +25750,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25767,7 +25769,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25802,7 +25804,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25821,7 +25823,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25856,7 +25858,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25891,7 +25893,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25926,7 +25928,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -25961,7 +25963,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -26032,7 +26034,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -26067,7 +26069,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -26316,7 +26318,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -26849,6 +26851,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Kemenag Kanwil Jabar",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -26919,6 +26922,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Sudirman 3",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -26989,6 +26993,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Halte Rajawali Barat",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -27059,6 +27064,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Paledang",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -27094,6 +27100,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Kebon Kopi",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -27199,6 +27206,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Plaza Telkom Rajawali",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -27269,6 +27277,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Rajawali 1",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -27339,6 +27348,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Dungus Cariang",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -28390,7 +28400,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -28425,7 +28435,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -28496,7 +28506,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -28531,7 +28541,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -28946,7 +28956,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -29017,7 +29027,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -29108,7 +29118,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -29503,7 +29513,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -29538,7 +29548,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -29573,7 +29583,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -29932,7 +29942,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -29967,7 +29977,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -30002,7 +30012,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -30037,7 +30047,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -30175,6 +30185,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Toko Ambon",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -30245,6 +30256,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Mayapada Tower",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -30459,6 +30471,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "GKI Anugerah",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -30529,6 +30542,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Seberang Jalan Dulatip",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -30672,6 +30686,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Alun Alun Bandung",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -30854,6 +30869,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SMA Trinitas",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -30924,6 +30940,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS Kebonjati",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -31030,6 +31047,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SMA Pasundan",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -31280,6 +31298,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Perintis Kemerdekaan",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -31626,7 +31645,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -31661,7 +31680,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -31696,7 +31715,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32039,7 +32058,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32074,7 +32093,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32109,7 +32128,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32144,7 +32163,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32179,7 +32198,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32214,7 +32233,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32249,7 +32268,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32284,7 +32303,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32427,7 +32446,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32462,7 +32481,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32497,7 +32516,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32532,7 +32551,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32567,7 +32586,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32602,7 +32621,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32637,7 +32656,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32672,7 +32691,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32691,7 +32710,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32726,7 +32745,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32761,7 +32780,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -32827,6 +32846,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Wahoo Waterworld",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -32861,7 +32881,7 @@
         "@id": "node/9857446207",
         "@relations": [
           {
-            "role": "platform_entry_only",
+            "role": "platform",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -32951,6 +32971,7 @@
         "@relations": [
           {
             "role": "stop_entry_only",
+            "stop_name": "IKEA Kota Baru Parahyangan",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33005,6 +33026,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Parahyangan Timur",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33110,6 +33132,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Parahyangan Timur 2",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33145,6 +33168,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Parahyangan Selatan",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33215,6 +33239,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Parahyangan Utara B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33286,6 +33311,7 @@
           {
             "role": "stop",
             "rel": 14270173,
+            "stop_name": "Parahyangan Utara",
             "reltags": {
               "colour": "#ED1C24",
               "from": "Kota Baru Parahyangan",
@@ -33390,6 +33416,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Tatar Wangsakerta A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33425,6 +33452,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Tatar Wangsakerta B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33460,6 +33488,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Bale Pare",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33530,6 +33559,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Bale Pare A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33565,6 +33595,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS Karisma Cimareme A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33635,6 +33666,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS Karisma Cimareme B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33740,6 +33772,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "STEI LPPM B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33775,6 +33808,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "STEI LPPM A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33880,6 +33914,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Masjid Ar Ridwan A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33950,6 +33985,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Masjid Ar Riwdwan B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -33985,6 +34021,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Padasuka Indah A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34055,6 +34092,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Padasuka Indah B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34090,6 +34128,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS IMC A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34125,6 +34164,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS IMC B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34230,6 +34270,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Gedung 4",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34300,6 +34341,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Dinas Sosial",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34335,6 +34377,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RSUD Cibabat A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34405,6 +34448,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RSUD Cibabat B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34475,6 +34519,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS Mitra Kasih",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34580,6 +34625,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SMAN 13 A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34615,6 +34661,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SMAN 13 B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34720,6 +34767,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Cilembar",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34755,6 +34803,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Jalan Budi",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34825,6 +34874,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "BRI Cimahi",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34860,6 +34910,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Buana",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -34965,6 +35016,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Ranca Belut A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -35035,6 +35087,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "PLN CIsangkan B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -35105,6 +35158,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Ranca Belut B",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -35140,6 +35194,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "PLN CIsangkan A",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -35210,6 +35265,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SMPN 6",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -35245,6 +35301,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Stasiun Padalarang",
             "rel": 14270173,
             "reltags": {
               "colour": "#ED1C24",
@@ -35319,7 +35376,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -35354,7 +35411,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -35461,7 +35518,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -35496,7 +35553,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -35603,7 +35660,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -35890,7 +35947,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "Jatinangor",
-              "name": "Koridor 5 Trans Metro Pasundan (Jatinangor—Dipatiukur)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",
@@ -35925,7 +35982,7 @@
             "reltags": {
               "colour": "#EC008C",
               "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan (Dipatiukur—Jatinangor)",
+              "name": "Koridor 5 Trans Metro Pasundan",
               "network": "Trans Metro Pasundan",
               "opening_hours": "Mo-Su 04:30-19:30",
               "operator": "DAMRI",

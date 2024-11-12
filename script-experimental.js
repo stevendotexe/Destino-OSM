@@ -5,11 +5,14 @@ L.tileLayer('https://api.maptiler.com/maps/basic-v2-dark/{z}/{x}/{y}.png?key=KP8
 }).addTo(map);
 
 fetch('busLinesData.geojson').then(response => response.json()).then(data => {
+
+    
     var overlays = {};
     data.features.forEach(function(feature) {
         if (feature.geometry.type === "LineString") {
             const color = feature.properties.colour || "gray";
             const layer = L.geoJSON(feature, {
+
                 style: {
                     color: color,
                     weight: 4
