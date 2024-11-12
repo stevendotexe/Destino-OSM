@@ -5,7 +5,7 @@ L.tileLayer('https://api.maptiler.com/maps/basic-v2-dark/{z}/{x}/{y}.png?key=KP8
 }).addTo(map);
 
 fetch('busLinesData.geojson').then(response => response.json()).then(data => {
-    L.geoJSON(data, {
+    L.geoJSON(data, { // adds bus stop points
         pointToLayer: function(feature, latlng) {
             return L.circleMarker(latlng, {
                 radius: 1,
@@ -13,13 +13,11 @@ fetch('busLinesData.geojson').then(response => response.json()).then(data => {
             });
         },
         style: function(feature) {
-            if (feature.geometry.type === "LineString") {
-                const color = feature.properties.colour || "gray";
+                const color = feature.properties.colour || "white";
                 return {
                     color: color,
                     weight: 4
                 };
-            }
         },
         onEachFeature: function (feature, layer) {
             if (feature.properties && feature.properties.name) {
