@@ -25211,6 +25211,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Taman Pramuka A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -25336,6 +25337,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Lapangan Gasibu A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -25477,6 +25479,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "IPDN A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -25710,6 +25713,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Terminal Leuwipanjang",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -25745,7 +25749,8 @@
         "@id": "node/3375793673",
         "@relations": [
           {
-            "role": "stop_exit_only",
+            "role": "stop",
+            "stop_name": "UNPAD Dipatiukur",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -25799,7 +25804,7 @@
         "@id": "node/3375793676",
         "@relations": [
           {
-            "role": "platform_exit_only",
+            "role": "platform",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -25924,6 +25929,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Hotel Grand Tebu",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -26171,7 +26177,8 @@
         "@id": "node/3464313648",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Plaza Pemkab Bandung A",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26419,7 +26426,8 @@
         "@id": "node/11341347379",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Simpang Desa Soreang",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26456,6 +26464,7 @@
         "@relations": [
           {
             "role": "platform",
+            "stop_name": "Mall Pelayanan Publik A",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26491,7 +26500,8 @@
         "@id": "node/11341347401",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Hotel Soreang B",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26527,7 +26537,8 @@
         "@id": "node/11341347402",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Hotel Soreang A",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26563,7 +26574,8 @@
         "@id": "node/11341347371",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Pasar Ikan Modern",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26599,7 +26611,8 @@
         "@id": "node/11341347360",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "RSUD Otto Iskandar Dinata",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26635,7 +26648,8 @@
         "@id": "node/11869564208",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "SAMSAT Soreang",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26671,7 +26685,8 @@
         "@id": "node/11341347359",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Geo Dipa Energi",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26707,7 +26722,8 @@
         "@id": "node/11869564210",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Pasar Induk Caringin",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26743,7 +26759,8 @@
         "@id": "node/11869564209",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Sumbersari Junction",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -26779,7 +26796,8 @@
         "@id": "node/11869564207",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "SPBU Pasir Koja",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -28304,6 +28322,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Leuwipanjang",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -28396,6 +28415,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Simpang By Pass Soekarno Hatta A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -28537,6 +28557,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Simpang By Pass Soekarno Hatta B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -28823,7 +28844,8 @@
         "@id": "node/11869564204",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Hotel Grand Pasundan",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -28859,7 +28881,8 @@
         "@id": "node/11869564205",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Bumi Kopo Kencana",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -29023,6 +29046,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "PT Inti",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -29094,6 +29118,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "PT Inti",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29544,6 +29569,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SPBU Moh Toha",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -29579,6 +29605,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Jl. H. Tatang Sumantri",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -29938,6 +29965,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Hotel Horison A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -30043,6 +30071,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Hotel Horison B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -30077,7 +30106,8 @@
         "@id": "node/9737570945",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Mall Festival Citylink",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -30113,7 +30143,8 @@
         "@id": "node/11869564206",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Simpang Pasirkoja",
             "rel": 14365267,
             "reltags": {
               "colour": "#F7941D",
@@ -31676,6 +31707,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Bandung Creative Hub B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -31711,6 +31743,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Bandung Creative Hub A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -32124,6 +32157,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SPBU Ahmad Yani",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -32229,6 +32263,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Lapangan Supratman B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -32299,6 +32334,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Lapangan Supratman A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -32477,6 +32513,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Cileunyi A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -32547,6 +32584,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Cileunyi B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -32582,6 +32620,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "IPDN B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -32686,7 +32725,8 @@
         "@id": "node/10697346845",
         "@relations": [
           {
-            "role": "stop_entry_only",
+            "role": "stop",
+            "stop_name": "UNPAD Jatinangor",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -32776,6 +32816,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Jatinangor Town",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -35514,6 +35555,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Panatayuda B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -35549,6 +35591,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Panatayuda A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -35656,6 +35699,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Lapangan Gasibu B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -35943,6 +35987,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Pusdai B",
             "rel": 14364569,
             "reltags": {
               "colour": "#EC008C",
@@ -35978,6 +36023,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Pusdai A",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
