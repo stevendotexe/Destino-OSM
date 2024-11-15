@@ -25032,6 +25032,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Halte Pasar Baru",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -25068,6 +25069,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Stasiun Bandung",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -25104,6 +25106,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Permata Buah Batu",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -25140,6 +25143,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name" :"ST Hall",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -25617,46 +25621,11 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/3272569139",
-        "@relations": [
-          {
-            "role": "",
-            "rel": 14363865,
-            "reltags": {
-              "colour": "#662D91",
-              "from": "Baleendah",
-              "name": "Koridor 3 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-20:00",
-              "operator": "Big Bird Pusaka",
-              "public_transport:version": "2",
-              "ref": "3D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "BEC",
-              "type": "route",
-              "wikidata": "Q113134866",
-              "wikipedia": "id:Koridor 3 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6062243,
-          -6.9391033
-        ]
-      },
-      "id": "node/3272569139"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/3277886365",
         "@relations": [
           {
             "role": "stop_entry_only",
+            "stop_name": "Terminal Leuwipanjang",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -26000,6 +25969,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Museum Kota Bandung",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -26106,6 +26076,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "PT LEN Industri B",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -26142,6 +26113,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "PT LEN Industri A",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -26383,42 +26355,6 @@
         ]
       },
       "id": "node/3733985925"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/3797907525",
-        "@relations": [
-          {
-            "role": "platform",
-            "rel": 14298213,
-            "reltags": {
-              "colour": "#2E3192",
-              "from": "Terminal Leuwipanjang",
-              "name": "Koridor 4 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-19:30",
-              "operator": "DAMRI",
-              "public_transport:version": "2",
-              "ref": "4D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "UNPAD Dipatiukur",
-              "type": "route",
-              "wikidata": "Q112651632",
-              "wikipedia": "id:Koridor 4 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6178302,
-          -6.8923042
-        ]
-      },
-      "id": "node/3797907525"
     },
     {
       "type": "Feature",
@@ -27401,7 +27337,8 @@
         "@id": "node/11871915379",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Kejari Bale Bandung",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27437,7 +27374,8 @@
         "@id": "node/11871915380",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "RS Al Ishan",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27474,6 +27412,7 @@
         "@relations": [
           {
             "role": "platform",
+            "stop_name": "Baleendah",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27529,7 +27468,8 @@
         "@id": "node/11876512399",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Masjid Al Amanah",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27565,7 +27505,8 @@
         "@id": "node/11871915378",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Apotek K24",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27601,7 +27542,8 @@
         "@id": "node/11876512400",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Matahari Land",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27637,7 +27579,8 @@
         "@id": "node/11871915377",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Masjid Jami Baitul Huda B",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27673,7 +27616,8 @@
         "@id": "node/11876512401",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Masjid Jami Baitul Huda A",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27709,7 +27653,8 @@
         "@id": "node/11871915376",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Alfamart SPBU Bojongsoang",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27745,7 +27690,8 @@
         "@id": "node/11876512402",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Bubur Ayam H Amid",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27781,7 +27727,8 @@
         "@id": "node/11876512403",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "SPBU Bojongsoang",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27817,7 +27764,8 @@
         "@id": "node/11871915375",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Griya Bandung Asri",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27853,7 +27801,8 @@
         "@id": "node/11876512404",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Borma Bojongsoang",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27889,7 +27838,8 @@
         "@id": "node/11871915374",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "AHASS",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27925,7 +27875,8 @@
         "@id": "node/11876512405",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Simpang Kersen",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -27961,7 +27912,8 @@
         "@id": "node/11876512406",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "SD Negeri Lengkong",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28033,7 +27985,8 @@
         "@id": "node/11876512407",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Telkom University",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28070,6 +28023,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Podomoro",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28105,7 +28059,8 @@
         "@id": "node/11102748150",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Transmart Buah Batu",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28141,7 +28096,8 @@
         "@id": "node/11102748151",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Puskesmas Bojongsoang",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28177,7 +28133,8 @@
         "@id": "node/11871915372",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Puskesmas Kunjangsari B",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28213,7 +28170,8 @@
         "@id": "node/11876512408",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Puskesmas Kujangsari A",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28249,7 +28207,8 @@
         "@id": "node/11871915371",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Bluebird B",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28285,7 +28244,8 @@
         "@id": "node/11876512409",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Bluebird A",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -28482,46 +28442,11 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10815837029",
-        "@relations": [
-          {
-            "role": "",
-            "rel": 14363865,
-            "reltags": {
-              "colour": "#662D91",
-              "from": "Baleendah",
-              "name": "Koridor 3 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-20:00",
-              "operator": "Big Bird Pusaka",
-              "public_transport:version": "2",
-              "ref": "3D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "BEC",
-              "type": "route",
-              "wikidata": "Q113134866",
-              "wikipedia": "id:Koridor 3 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6083159,
-          -6.945451
-        ]
-      },
-      "id": "node/10815837029"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/11707031626",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Mohammad Toha",
             "rel": 15660998,
             "reltags": {
               "colour": "#EC008C",
@@ -28585,114 +28510,6 @@
         ]
       },
       "id": "node/11707031627"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11739021648",
-        "@relations": [
-          {
-            "role": "stop",
-            "rel": 14363865,
-            "reltags": {
-              "colour": "#662D91",
-              "from": "Baleendah",
-              "name": "Koridor 3 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-20:00",
-              "operator": "Big Bird Pusaka",
-              "public_transport:version": "2",
-              "ref": "3D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "BEC",
-              "type": "route",
-              "wikidata": "Q113134866",
-              "wikipedia": "id:Koridor 3 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6084167,
-          -6.9454051
-        ]
-      },
-      "id": "node/11739021648"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11739021649",
-        "@relations": [
-          {
-            "role": "stop",
-            "rel": 14363865,
-            "reltags": {
-              "colour": "#662D91",
-              "from": "Baleendah",
-              "name": "Koridor 3 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-20:00",
-              "operator": "Big Bird Pusaka",
-              "public_transport:version": "2",
-              "ref": "3D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "BEC",
-              "type": "route",
-              "wikidata": "Q113134866",
-              "wikipedia": "id:Koridor 3 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6083491,
-          -6.945205
-        ]
-      },
-      "id": "node/11739021649"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11739021650",
-        "@relations": [
-          {
-            "role": "",
-            "rel": 14363865,
-            "reltags": {
-              "colour": "#662D91",
-              "from": "Baleendah",
-              "name": "Koridor 3 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-20:00",
-              "operator": "Big Bird Pusaka",
-              "public_transport:version": "2",
-              "ref": "3D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "BEC",
-              "type": "route",
-              "wikidata": "Q113134866",
-              "wikipedia": "id:Koridor 3 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6084009,
-          -6.9451896
-        ]
-      },
-      "id": "node/11739021650"
     },
     {
       "type": "Feature",
@@ -28773,6 +28590,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS Immanuel A",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -28809,6 +28627,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS Immanuel B",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -28919,6 +28738,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Simpang Mohamad Toha",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -28947,61 +28767,6 @@
         ]
       },
       "id": "node/10815723012"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10815724000",
-        "@relations": [
-          {
-            "role": "",
-            "rel": 14363865,
-            "reltags": {
-              "colour": "#662D91",
-              "from": "Baleendah",
-              "name": "Koridor 3 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-20:00",
-              "operator": "Big Bird Pusaka",
-              "public_transport:version": "2",
-              "ref": "3D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "BEC",
-              "type": "route",
-              "wikidata": "Q113134866",
-              "wikipedia": "id:Koridor 3 Trans Metro Pasundan"
-            }
-          },
-          {
-            "role": "platform",
-            "rel": 15660998,
-            "reltags": {
-              "colour": "#EC008C",
-              "from": "UNPAD Dipatiukur",
-              "name": "Koridor 5 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-19:30",
-              "operator": "DAMRI",
-              "public_transport:version": "2",
-              "ref": "5D",
-              "route": "bus",
-              "to": "Pangkalan DAMRI Jatinangor",
-              "type": "route",
-              "wikidata": "Q113136817",
-              "wikipedia": "id:Koridor 5 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6063532,
-          -6.9389947
-        ]
-      },
-      "id": "node/10815724000"
     },
     {
       "type": "Feature",
@@ -29082,6 +28847,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Sekolah Ganesha",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29210,6 +28976,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Taman Tegalega",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29282,6 +29049,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Taman Tegalega 2",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -29318,6 +29086,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Pintu Keluar Terimnal Tegalega",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -29462,6 +29231,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Jalan Ibu Inggit Garnasih",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -29498,6 +29268,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Pasar Tegalega",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -29640,7 +29411,8 @@
         "@id": "node/11871900166",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "PLN UP3 Bandung B",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29676,7 +29448,8 @@
         "@id": "node/11876512415",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "PLN UP3 Bandung A",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29712,7 +29485,8 @@
         "@id": "node/11871915369",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Swadharma BNI",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29748,7 +29522,8 @@
         "@id": "node/11871900167",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "LPKIA B",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29784,7 +29559,8 @@
         "@id": "node/11871900168",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Bangunan Mart B",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29820,7 +29596,8 @@
         "@id": "node/11876512413",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Bangunan Mart A",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29856,7 +29633,8 @@
         "@id": "node/11876512414",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "LPKIA A",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29892,7 +29670,8 @@
         "@id": "node/11079292221",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Buah Batu",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -29928,7 +29707,8 @@
         "@id": "node/11876512412",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Medal Sekarwangi / Bulat",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -30323,6 +30103,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Astana Anyar RSIA Kota Bandung",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -30394,7 +30175,8 @@
         "@id": "node/10794770951",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "ITC Kebon Kelapa",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -30431,6 +30213,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Simpang Ijan",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -30608,7 +30391,8 @@
         "@id": "node/10778288303",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Banceuy",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -30645,6 +30429,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Jalan Dalem Kaum",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -30793,6 +30578,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Toko Mas ABC",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -30829,6 +30615,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Grand Yogya Kepatihan",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -31114,6 +30901,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SMAN 6 Bandung",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -31293,6 +31081,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Stasiun Timur",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -31385,6 +31174,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Braga/BI",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -31456,6 +31246,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Balai Kota Bandung",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -31492,6 +31283,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "SDN Pajajaran",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -31528,6 +31320,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "BEC Bandung Electronic Centre",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -31600,6 +31393,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "STHB Sekolah Tinggi Hukum Bandung",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -31636,6 +31430,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Bandung Electronic Center",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -31815,6 +31610,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Hotel Merdeka Santa Angela",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -31871,6 +31667,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Hotel The One O One B",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -31907,6 +31704,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Hotel The One O One B",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -31979,6 +31777,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Bandung Indah Plaza",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -32369,7 +32168,8 @@
         "@id": "node/11871915370",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Pasar Kordon B",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -32405,7 +32205,8 @@
         "@id": "node/11876512410",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "Pasar Kordon A",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -32441,7 +32242,8 @@
         "@id": "node/11876512411",
         "@relations": [
           {
-            "role": "platform",
+            "role": "stop",
+            "stop_name": "JAPNAS",
             "rel": 14363865,
             "reltags": {
               "colour": "#662D91",
@@ -35483,6 +35285,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Taman Radio B",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -35519,6 +35322,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Taman Radio A",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -35771,6 +35575,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Kartika Sari B",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -35807,6 +35612,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS Santo Borromeus B",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -35843,6 +35649,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "RS Santo Borromeus B",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -35879,6 +35686,7 @@
         "@relations": [
           {
             "role": "stop",
+            "stop_name": "Kartika Sari A",
             "rel": 14298213,
             "reltags": {
               "colour": "#2E3192",
@@ -35943,42 +35751,6 @@
         ]
       },
       "id": "node/11104718109"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11707030824",
-        "@relations": [
-          {
-            "role": "stop",
-            "rel": 14298213,
-            "reltags": {
-              "colour": "#2E3192",
-              "from": "Terminal Leuwipanjang",
-              "name": "Koridor 4 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-19:30",
-              "operator": "DAMRI",
-              "public_transport:version": "2",
-              "ref": "4D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "UNPAD Dipatiukur",
-              "type": "route",
-              "wikidata": "Q112651632",
-              "wikipedia": "id:Koridor 4 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6177764,
-          -6.8923055
-        ]
-      },
-      "id": "node/11707030824"
     },
     {
       "type": "Feature",
@@ -36051,78 +35823,6 @@
         ]
       },
       "id": "node/11707030829"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9739234183",
-        "@relations": [
-          {
-            "role": "platform",
-            "rel": 14298213,
-            "reltags": {
-              "colour": "#2E3192",
-              "from": "Terminal Leuwipanjang",
-              "name": "Koridor 4 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-19:30",
-              "operator": "DAMRI",
-              "public_transport:version": "2",
-              "ref": "4D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "UNPAD Dipatiukur",
-              "type": "route",
-              "wikidata": "Q112651632",
-              "wikipedia": "id:Koridor 4 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6151292,
-          -6.8868878
-        ]
-      },
-      "id": "node/9739234183"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11739021656",
-        "@relations": [
-          {
-            "role": "stop",
-            "rel": 14298213,
-            "reltags": {
-              "colour": "#2E3192",
-              "from": "Terminal Leuwipanjang",
-              "name": "Koridor 4 Trans Metro Pasundan",
-              "network": "Trans Metro Pasundan",
-              "opening_hours": "Mo-Su 04:30-19:30",
-              "operator": "DAMRI",
-              "public_transport:version": "2",
-              "ref": "4D",
-              "roundtrip": "yes",
-              "route": "bus",
-              "to": "UNPAD Dipatiukur",
-              "type": "route",
-              "wikidata": "Q112651632",
-              "wikipedia": "id:Koridor 4 Trans Metro Pasundan"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6150582,
-          -6.8869095
-        ]
-      },
-      "id": "node/11739021656"
     }
   ]
 }

@@ -27,8 +27,8 @@ fetch('busLinesData.geojson').then(response => response.json()).then(data => {
                 
                 if(feature.properties["@relations"][0]["stop_name"]){
                     marker.bindPopup(feature.properties["@relations"][0]["stop_name"]);
-                } else if (feature.properties["@relations"][0]["role"] === "platform") {
-                    marker.bindPopup("PLATFORM " + feature.properties["@id"]); 
+                } else if (feature.properties["@relations"][0]["role"] === "platform" && !(feature.properties["@relations"][0]["stop_name"])) {
+                    return
                 }
                 else {
                     marker.bindPopup(feature.properties["@id"]); // CHANGE TO "STOP LATER"
